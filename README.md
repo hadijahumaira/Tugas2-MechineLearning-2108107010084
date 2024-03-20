@@ -1,6 +1,7 @@
 # Tugas2-MechineLearning
-NAMA: HADIJA HUMAIRA
-NPM: 2108107010084
+### NAMA: HADIJA HUMAIRA
+
+### NPM: 2108107010084
 
 Dataset
 
@@ -8,7 +9,9 @@ Dataset
 - Regresi: https://www.kaggle.com/datasets/saquib7hussain/experience-salary-dataset
   
 ## Cara Menjalankan Source Code
-
+1. Download file .ipynb dan dataset atau clone repository
+2. Install library dengan: python3 pip install -r requirement.txt
+3. Run code Klasifikasi.ipynb dan Regresi.ipynb
 
 ## Penjelasan Dataset
 1. SVM CLassfification
